@@ -34,6 +34,6 @@ def send(cc, last, username, time_taken):
 <b>COUNTRY</b> ⌁ {do.upper()} {emj}              
 
 <b>Check by</b> ⌁ @{username}
-<b>Bot By</b> ⌁ @KyaZa3
+<b>Bot By</b> ⌁ @Chuckyforu4
 """
     return msg1
